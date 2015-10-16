@@ -14,6 +14,7 @@ A (sort of) curated list of engineering/tech blogs from top companies and startu
 * LinkedIn: https://engineering.linkedin.com/blog
 * Medium: https://medium.com/medium-eng
 * Netflix: http://techblog.netflix.com/
+* Paypal: https://www.paypal-engineering.com/
 * Pinterest: https://engineering.pinterest.com/blog
 * Quora: https://engineering.quora.com/
 * Soundcloud: https://developers.soundcloud.com/blog/
